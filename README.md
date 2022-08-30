@@ -1,1 +1,2 @@
 # QRCodeComponent
+** wpis testowy
